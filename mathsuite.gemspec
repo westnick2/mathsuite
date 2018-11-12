@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'mathsuite_gem'
-  s.version     = '1.0.0'
+  s.version     = '1.0.1'
   s.date        = '2018-11-12'
 
   s.summary     = "Solving Abramov book math tasks."
@@ -15,7 +15,7 @@ Gem::Specification.new do |s|
 
   s.require_paths = ['lib']
 
-  s.add_development_dependency 'mathtestsuite', '~> 1.0.0'
+  s.add_development_dependency 'mathtestsuite', '~> 1.0.1'
 
   s.files = [
     'LICENSE',
