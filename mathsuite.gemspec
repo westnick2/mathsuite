@@ -15,10 +15,10 @@ Gem::Specification.new do |s|
 
   s.require_paths = ['lib']
 
-  s.add_development_dependency 'mathtestsuite', '~> 1.0.1'
+  s.add_development_dependency 'mathtestsuite', '~> 1.0'
 
   s.files = [
-    'LICENSE',
+    'LICENSE.txt',
     'README.md',
     'Rakefile',
     'mathsuite.gemspec',
